@@ -19,5 +19,5 @@
 </br>
 </br>
 
-[사용 된 SpringBoot RestController Server 보러가기](https://github.com/iron-ee/Android_retrofit2_PhoneBookApp){:target="_blank"}
+[사용 된 SpringBoot RestController Server 보러가기](https://github.com/iron-ee/Android_retrofit2_PhoneBookApp_Server)
 
